@@ -46,33 +46,37 @@ This approach allows for:
 
 ---
 
-## 📂 Repository Structure
+## 📁 Repository Structure
 
 better-dev-scripting/
-
 ├── logs/
-|
-│ └── log_parsing_scripts/
-|
+│   ├── README.md
+│   └── log_parsing/
+│       ├── app.log
+│       
+│
 ├── files/
-|
-│ └── file_cleanup_tools/
-|
+│   ├── README.md
+│   └── file_cleanup/
+│       
+│
 ├── configs/
-|
-│ └── config_validation/
-|
+│   ├── README.md
+│   └── config_validation/
+│       
+│
 ├── system/
-|
-│ └── process_and_disk_checks/
-|
+│   ├── README.md
+│   └── system_checks/
+│       
+│       
+│
 ├── data/
-|
-│ └── csv_and_text_normalization/
-|
+│   ├── README.md
+│   └── data_normalization/
+│      
+│
 └── README.md
 
-
-> Structure may evolve as new practice areas are added.
 
 
