@@ -51,25 +51,25 @@ This approach allows for:
 better-dev-scripting/
 
 ├── logs/
-
+|
 │ └── log_parsing_scripts/
-
+|
 ├── files/
-
+|
 │ └── file_cleanup_tools/
-
+|
 ├── configs/
-
+|
 │ └── config_validation/
-
+|
 ├── system/
-
+|
 │ └── process_and_disk_checks/
-
+|
 ├── data/
-
+|
 │ └── csv_and_text_normalization/
-
+|
 └── README.md
 
 > Structure may evolve as new practice areas are added.
