@@ -45,7 +45,7 @@
     
     Total stale files: 3
     
-If no files exceeded the threshold:
+If no files egfxceeded the threshold:
 
     Stale Files Report
     ------------------
